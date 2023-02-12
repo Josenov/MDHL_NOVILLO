@@ -1,0 +1,119 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:content-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+header{
+    width: 100vw;
+    height: 45vh;
+    background-image: url(../assets/img/design1_image1.jpg);
+    background-position: 0 29%;
+    background-size: cover;
+}
+
+
+
+header>h1{
+    
+    padding: 5px;
+    padding-left: 55px;
+    font-size: 50px;
+    font-style: oblique;
+    color: white;
+    
+    
+    
+}
+
+
+#logo{
+    position: absolute;
+    top: 150px;
+    right:0;
+    
+    
+
+}
+
+nav a{
+    position: relative;
+    top: 50px;
+    font-weight: bolder;
+    display: block;
+    text-decoration: none;
+    margin: 1rem;
+    width: 7rem;
+}
+
+.subtitulo{
+    color:white;
+    background-color: black;
+    text-align: center;
+    margin-top: 200px;
+    
+    
+}
+
+
+.img-hockey{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -80px;
+    left:870px;
+    display: inline;
+
+    
+    
+}
+
+.img-hockey-2{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: -50px;
+    left:130px;
+    display: inline;
+
+    
+    
+}
+
+.img-hockey-3{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    top: 60px;
+    left:770px;
+    display: inline;
+
+    
+    
+}
+
+main{
+
+    width: 100vw;
+    height:auto;
+
+}
+
+main article{
+    text-align: left;
+    position: absolute;
+    left:390px;
+    top: 345px;
+    display:inline-block;
+    margin-left: -20px;
+    
+
+    
+    
+}
+main h3{
+    margin: 0.5rem;
+}
+
